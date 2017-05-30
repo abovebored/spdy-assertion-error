@@ -1,0 +1,15 @@
+{
+  "name": "spdy-assert",
+  "version": "1.0.0",
+  "description": "Test case for push assertion error",
+  "main": "index.js",
+  "scripts": {
+    "start": "DEBUG=spdy:priority node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "spdy": "^3.4.7"
+  }
+}
